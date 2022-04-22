@@ -1,0 +1,43 @@
+body {
+    margin: 20px;
+    background: skyblue;
+    border: solid 5px rgba(76, 170, 76, 0.863);
+    padding: 40px;
+    color: white;
+}
+
+img {
+    height: 250px;
+    float: right;
+    margin: 0 20px;
+}
+
+header {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+    display: inline-block;
+    font-family: Roboto;
+    list-style-type: none;
+    font-weight: bold;
+}
+
+a {
+    color: rgba(76, 170, 76, 0.863);
+}
+
+h1 {
+    font-family: serif;
+    font-style: italic;
+}
+
+h2{
+    font-family: Roboto;
+}
+
+footer {
+    text-align: center;
+    clear: both;
+}
